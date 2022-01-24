@@ -10,10 +10,10 @@
 
 ## Установка
 
-    Composer install.
-    Создайте БД MySQL и разверните дамп setup.sql.
-    В bot/lib/cfg.php укажите реквизиты доступа к базе и токен бота.
-    Зайдите по адресу https://your.domain/bot/webhook.php — callback будет зарегистрирован в Telegram API, и бот начнет работать.
++ composer install
++ Создайте БД MySQL и разверните дамп setup.sql.
++ В bot/lib/cfg.php укажите реквизиты доступа к базе и токен бота.
++ Зайдите по адресу https://your.domain/bot/webhook.php — callback будет зарегистрирован в Telegram API, и бот начнет работать.
 
 ## Кастомизация
 
